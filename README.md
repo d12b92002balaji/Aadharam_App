@@ -9,7 +9,7 @@
   <li>MY SQL</li>
 </ol>
 
-**Aadharam App is used to save the people personal details and image of the person in the database**
+>**Aadharam App is used to save the people personal details and image of the person in the database**
 
 **Abstract**
 
