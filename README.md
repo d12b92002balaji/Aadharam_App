@@ -1,10 +1,10 @@
 #developed by dheepan balaji L
 ## TECHNOLOGIES
 
-1. PHP
-1. MYSQL
-1. BOOTSTRAP 5
 1. HTML
-1. CSS
+2. CSS
+3. BOOTSTRAP 5
+4. PHP
+5. MY SQL
 
 
