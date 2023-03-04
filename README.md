@@ -1,11 +1,16 @@
 #developed by dheepan balaji L
 ## TECHNOLOGIES
 
-1. HTML
-2. CSS
-3. BOOTSTRAP 5
-4. PHP
-5. MY SQL
+<ol>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>BOOT STRAP 5</li>
+  <li>PHP</li>
+  <li>MY SQL</li>
+</ol>
+
+**Aadharam App is used to save the people personal details and image of the person in the database**
+
+**Abstract**
 
 
-![image1](https://user-images.githubusercontent.com/79764082/222874960-41332cf4-779e-48f9-bb5d-2e9c3259694a.png)
